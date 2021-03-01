@@ -38,6 +38,10 @@ body,html {
         font-weight: bold;
     }
 
+    .infos_fermeture {
+        margin-top: -50px;
+    }
+
     .title-section1 h3 {
         font-family: 'Great Vibes', cursive;
         margin-bottom: 50px;
